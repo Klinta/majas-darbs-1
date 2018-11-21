@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    background-image: url(https://thumbs.dreamstime.com/z/cat-theme-seamless-background-pattern-heart-shaped-animal-paw-footprints-fish-bones-50687862.jpg)
+        }
+        
+    p{
+        border: 2px solid rgb(102, 23, 82); 
+        color: red;
+        padding: 5px;
+    }
+    div {
+        margin: 0 auto;
+            width: 800px;
+           
+        
+    }
+        img {
+            width: 100%;
+        }
+        h1 {
+            color: brown;
+                text-align: center;
+        }
+        p1 {
+            color:brown;
+        }
+            .red {
+                color: blue;
+                font-size: 80px;
+                font-weight: bold;
+            }
+    
+        span {
+            font-size: 200px;
+            color: black;
+        }
